@@ -1,0 +1,106 @@
+{
+    "dt": {
+        "oj": {
+            "jid": 1
+        },
+        "pid": "hoSYpklnZF",
+        "pcd": "10825821",
+        "tk": "c79311b2f11b4a878f8061698f71d808_demo",
+        "st": 1,
+        "geu": "game-api/fortune-tiger/",
+        "lau": "/game-api/lobby/",
+        "bau": "web-api/game-proxy/",
+        "cc": "BRL",
+        "cs": "R$",
+        "nkn": ":r41sj22791912",
+        "gm": [
+            {
+                "gid": 126,
+                "msdt": 1638432036000,
+                "medt": 1638432036000,
+                "st": 1,
+                "amsg": "",
+                "rtp": {
+                    "df": {
+                        "min": 96.81,
+                        "max": 96.81
+                    }
+                },
+                "mxe": 2500,
+                "mxehr": 8960913
+            }
+        ],
+        "uiogc": {
+            "bb": 0,
+            "grtp": 0,
+            "gec": 1,
+            "cbu": 0,
+            "cl": 0,
+            "bf": 1,
+            "mr": 0,
+            "phtr": 0,
+            "vc": 0,
+            "bfbsi": 1,
+            "bfbli": 1,
+            "il": 0,
+            "rp": 0,
+            "gc": true,
+            "ign": true,
+            "tsn": 0,
+            "we": 0,
+            "gsc": 0,
+            "bu": 0,
+            "pwr": 0,
+            "hd": 0,
+            "et": 0,
+            "np": 0,
+            "igv": 0,
+            "as": 1000,
+            "asc": 1,
+            "std": 0,
+            "hnp": 0,
+            "ts": 1,
+            "smpo": 0,
+            "ivs": 1,
+            "ir": 0,
+            "hn": 1,
+            "swfbsi": 0,
+            "swfbli": 0,
+            "swf": 0,
+            "sp": 1,
+            "rcf": 0,
+            "sbb": 1,
+            "hwl": 1
+        },
+        "ec": [],
+        "occ": {
+            "rurl": "",
+            "tcm": "",
+            "tsc": 0,
+            "ttp": 0,
+            "tlb": "",
+            "trb": ""
+        },
+        "ioph": "ffb46c1f6a7",
+        "sdn": "api",
+        "eatk": "p6QC08LXusQ+vuXRxgA0fCnnKYbYIjAkPDRed/cA8mHUYLu5hYrRu1Kpmpc6pkRpgZGt7IWgzXpg2jlwaziRMfzoAtP7RdxoAPc8pY/1L2oyi8LxRuNUgOD2OjAdvVXB01VPOTI6irJ6a+CpvGA06wpi33wdmQbagIza+dCgufDagohFuQukOeL9fsF0Tddc",
+        "jc": {
+            "grtp": 1,
+            "bf": 0,
+            "et": 0,
+            "np": 0,
+            "as": 1000,
+            "asc": 1,
+            "std": 0,
+            "hnp": 0,
+            "ts": 1,
+            "smpo": 0,
+            "swf": 0,
+            "sp": 1,
+            "rcf": 0,
+            "sbb": 1,
+            "hwl": 1
+        }
+    },
+    "err": null
+}
